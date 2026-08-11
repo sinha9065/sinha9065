@@ -2,7 +2,7 @@
 
 ### 🎓 A passionate Data Science student (3rd Year) from India
 
-- 🔭 I'm currently working on **Multi-Agent Research System**
+- 🔭 I'm currently working on **Zomato AI data analytics**
 - 🌱 I'm currently learning **Advanced ML & Deep Learning frameworks**
 - 👯 I'm looking to collaborate on **open-source Data Science / AI projects**
 - 🤝 I'm looking for help with **real-world ML deployment**
