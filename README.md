@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm Shubham Sinha
 
-<!--
-**sinha9065/sinha9065** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 A passionate Data Science student (3rd Year) from India
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on **Multi-Agent Research System**
+- 🌱 I'm currently learning **Advanced ML & Deep Learning frameworks**
+- 👯 I'm looking to collaborate on **open-source Data Science / AI projects**
+- 🤝 I'm looking for help with **real-world ML deployment**
+- 💬 Ask me about **Python, Machine Learning, SQL, Data Analysis**
+- 📫 How to reach me **sinhashubham540@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="SQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" title="PyTorch" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/scikit-learn/scikit-learn-icon.svg" title="Scikit-learn" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" title="Power BI" width="40" height="40"/>
+</p>
+
+### 📊 GitHub Stats
+
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinha9065&show_icons=true&theme=radical)
