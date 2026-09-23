@@ -25,10 +25,7 @@ Data Science Student | Python • SQL • ML • DL | Building AI Agents with La
   - **Intern** @ **NovaNectar Services Pvt. Ltd.** *(May 2025 – Jul 2025)* — Built ML models for car price prediction, landslide prediction, and house price prediction using multiple algorithms.
   - **Intern** @ **MedTourEasy** *(May 2025 – Jul 2025)*
   - **Artificial Intelligence Intern** @ **Internship Studio** *(Feb 2024 – Mar 2024)*
-- 🏆 **Achievements:**
-  - 🥉 3rd Position — Tech Fest 2025
-  - 🎖️ All India Rank 41 — Internship Studio
-  - 📝 JEE Mains 2023 — 92 Percentile
+- 🏆 **Achievements:** See full list below 👇
 - 🔭 **Currently building:** AI agent systems using LangChain & RAG pipelines
 - 🌱 **Currently learning:** Advanced ML & Deep Learning frameworks
 - 👯 **Looking to collaborate on:** Open-source Data Science / AI projects
@@ -88,12 +85,12 @@ Upload any PDF and get accurate, source-cited answers grounded in the actual doc
 <tr>
 <td width="50%" valign="top">
 
-### 🗳️ [Blockchain-Based-Voting-System](https://github.com/sinha9065)
-*🥉 3rd place — Tech Fest 2025.*
+### 🎭 [Emotion Detector](https://github.com/sinha9065/emotion-detector)
+*Real-time emotion detection from text & voice.*
 
-A decentralized, transparent electronic voting framework built on blockchain principles, designed to eliminate tampering and ensure verifiable results.
+A DistilBERT-based deep learning model that detects emotions from text or voice, with word-level explainability, voice input/output, and a live mood heatmap.
 
-`Blockchain` `Python` `Security`
+`Python` `DistilBERT` `Streamlit` `Hugging Face`
 
 </td>
 <td width="50%" valign="top">
@@ -109,13 +106,13 @@ Upload a photo of a plant leaf and a trained ML model diagnoses the disease inst
 </tr>
 </table>
 
-> ⚠️ *Blockchain-Based-Voting-System repo link coming soon — will update once it's pushed to GitHub.*
+> ⚠️ *All project links now point to their exact repos — nothing left to update.*
 
 ---
 
 ## 🏆 Honors & Achievements
 
-- 🥉 **3rd Position — Tech Fest 2025:** Built and presented **Blockchain-Based-Voting-System**, a decentralized and transparent electronic voting framework, competing against 30+ teams.
+- 🥉 **3rd Position — Tech Fest 2025:** Built and presented **Blockchain-Based-Voting-System**, a decentralized and transparent electronic voting framework, competing against 8 teams.
 - 🎖️ **All India Rank 41 — Internship Studio:** Ranked among the top candidates nationwide in Internship Studio's evaluation.
 - 📝 **JEE Mains 2023 — 92 Percentile:** Scored in the top percentile bracket in one of India's most competitive engineering entrance exams.
 
