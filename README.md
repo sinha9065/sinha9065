@@ -17,21 +17,13 @@ Data Science Student | Python • SQL • ML • DL | Building AI Agents with La
 </p>
 
 ---
+## 🧑‍🎓📓 About Me
 
-## 🧑‍🎓 About Me
-
-- 🎓 **Academics:** Pursuing **BSc (Hons.) Data Science**
-- 💼 **Experience:**
-  - **Intern** @ **NovaNectar Services Pvt. Ltd.** *(May 2025 – Jul 2025)* — Built ML models for car price prediction, landslide prediction, and house price prediction using multiple algorithms.
-  - **Intern** @ **MedTourEasy** *(May 2025 – Jul 2025)*
-  - **Artificial Intelligence Intern** @ **Internship Studio** *(Feb 2024 – Mar 2024)*
-- 🏆 **Achievements:** See full list below 👇
-- 🔭 **Currently building:** AI agent systems using LangChain & RAG pipelines
-- 🌱 **Currently learning:** Advanced ML & Deep Learning frameworks
-- 👯 **Looking to collaborate on:** Open-source Data Science / AI projects
-- 🤝 **Open to:** Internships, collaborations & conversations around AI/ML and Data Science
-- 💬 **Ask me about:** Python, Machine Learning, SQL, Data Analysis, LangChain, RAG
-
+- 🎓 **Academics:** Pursuing **B.Sc. (Hons.) Data Science**.
+- 💼 **Experience:** Interned as **ML/AI Intern** at **NovaNectar Services Pvt. Ltd.** (May 2025 – Jul 2025) — built ML models for car price, laptop price, and house price prediction using multiple algorithms; also interned at **MedTourEasy** (May 2025 – Jul 2025) and as an **Artificial Intelligence Intern at Internship Studio** (Feb 2024 – Mar 2024).
+- 🏆 **Hackathons & Competitions:** Secured **3rd Position at Tech Fest 2025**, building a *CLI-based Blockchain Voting System* in Python using **SHA-256 hashing** to ensure vote immutability and prevent double voting, competing against 8 teams.
+- 🛰️ **Focus Areas:** Building **AI agent systems** using **LangChain & RAG pipelines**, and currently deepening skills in **advanced ML & Deep Learning frameworks**.
+- 🎯 **Current Objective:** Looking to collaborate on **open-source Data Science / AI projects**, and open to **internships, collaborations & conversations** around AI/ML and Data Science — feel free to ask about **Python, Machine Learning, SQL, Data Analysis, LangChain, or RAG**.
 ---
 
 ## 🛠️ Tech Stack & Skills
