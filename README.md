@@ -1,25 +1,34 @@
-<h1 align="center">Hi there, I'm Shubham Sinha 👋</h1>
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Shubham+Sinha+%F0%9F%91%8B;Data+Science+Student;Building+AI+Agents+with+LangChain+%26+RAG" alt="Typing SVG" /></a>
+</h1>
 
 <p align="center">
 Data Science Student | Python • SQL • ML • DL | Building AI Agents with LangChain & RAG
 </p>
 
 <p align="center">
-<a href="https://github.com/sinha9065"><img src="https://img.shields.io/badge/GitHub-sinha9065-181717?style=for-the-badge&logo=github" /></a>
-<a href="https://www.linkedin.com/in/shubhamsinha-85816b339"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:sinhashubham540@gmail.com"><img src="https://img.shields.io/badge/Email-sinhashubham540%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/shubhamsinha-85816b339"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sinhashubham540@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sinha9065&style=for-the-badge&color=blueviolet" alt="Profile views" />
 </p>
 
 ---
 
 ## 🧑‍🎓 About Me
 
-- 🎓 **Academics:** Pursuing **BSc (Hons.) Data Science** — *(2023 – 2027)*
+- 🎓 **Academics:** Pursuing **BSc (Hons.) Data Science**
 - 💼 **Experience:**
   - **Intern** @ **NovaNectar Services Pvt. Ltd.** *(May 2025 – Jul 2025)* — Built ML models for car price prediction, landslide prediction, and house price prediction using multiple algorithms.
   - **Intern** @ **MedTourEasy** *(May 2025 – Jul 2025)*
   - **Artificial Intelligence Intern** @ **Internship Studio** *(Feb 2024 – Mar 2024)*
-- 🏆 **Achievements:** 🥉 **3rd Position — Tech Fest 2025** · 🎖️ **All India Rank 41 — Internship Studio** · 📝 **JEE Mains — 92 Percentile**
+- 🏆 **Achievements:**
+  - 🥉 3rd Position — Tech Fest 2025
+  - 🎖️ All India Rank 41 — Internship Studio
+  - 📝 JEE Mains 2023 — 92 Percentile
 - 🔭 **Currently building:** AI agent systems using LangChain & RAG pipelines
 - 🌱 **Currently learning:** Advanced ML & Deep Learning frameworks
 - 👯 **Looking to collaborate on:** Open-source Data Science / AI projects
@@ -51,32 +60,72 @@ Data Science Student | Python • SQL • ML • DL | Building AI Agents with La
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🧠 [ResearchMind](https://github.com/sinha9065)
-*A multi-agent AI system where 4 specialized agents (search, read, write, critic) collaborate to research any topic and generate structured reports.*
+*Multi-agent AI research system.*
+
+Four specialized agents — search, read, write, and critic — collaborate to research any topic and generate structured, well-cited reports end to end.
 
 `Python` `LangChain` `Multi-Agent AI` `Streamlit`
 
-### 📄 [PDF Q&A Chatbot (RAG)](https://github.com/sinha9065)
-*Upload any PDF and get accurate, source-cited answers grounded in the actual document using Retrieval Augmented Generation.*
+</td>
+<td width="50%" valign="top">
+
+### 📄 [PDF Q&A Chatbot](https://github.com/sinha9065)
+*RAG-powered document assistant.*
+
+Upload any PDF and get accurate, source-cited answers grounded in the actual document using Retrieval Augmented Generation — no hallucinated answers.
 
 `Python` `RAG` `LangChain` `NLP`
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🗳️ [Blockchain-Based-Voting-System](https://github.com/sinha9065)
-*A decentralized, transparent electronic voting framework built on blockchain principles.*
+*🥉 3rd place — Tech Fest 2025.*
+
+A decentralized, transparent electronic voting framework built on blockchain principles, designed to eliminate tampering and ensure verifiable results.
 
 `Blockchain` `Python` `Security`
 
-> ⚠️ *Links above point to your GitHub profile — update each with the exact repo URL once you confirm the slugs.*
+</td>
+<td width="50%" valign="top">
+
+### 🌿 [Plant-Doctor](https://github.com/sinha9065/Plant-Doctor)
+*Computer Vision plant disease detector.*
+
+Upload a photo of a plant leaf and a trained ML model diagnoses the disease instantly, helping farmers and gardeners catch issues early and act fast.
+
+`Python` `Computer Vision` `Deep Learning` `Image Classification`
+
+</td>
+</tr>
+</table>
+
+> ⚠️ *Links point to your GitHub profile — swap each project title's link with the exact repo URL once you confirm the slugs.*
 
 ---
 
 ## 🏆 Honors & Achievements
 
-- 🥉 **3rd Position — Tech Fest 2025**
-- 🎖️ **All India Rank 41 — Internship Studio**
-- 📝 **JEE Mains — 92 Percentile**
+- 🥉 **3rd Position — Tech Fest 2025:** Built and presented **Blockchain-Based-Voting-System**, a decentralized and transparent electronic voting framework, competing against 30+ teams.
+- 🎖️ **All India Rank 41 — Internship Studio:** Ranked among the top candidates nationwide in Internship Studio's evaluation.
+- 📝 **JEE Mains 2023 — 92 Percentile:** Scored in the top percentile bracket in one of India's most competitive engineering entrance exams.
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/sinha9065/sinha9065/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
 
 ---
 
