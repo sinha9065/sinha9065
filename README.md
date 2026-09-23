@@ -66,7 +66,7 @@ Data Science Student | Python • SQL • ML • DL | Building AI Agents with La
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [ResearchMind](https://github.com/sinha9065)
+### 🧠 [ResearchMind](https://github.com/sinha9065/multi-agent-research-system)
 *Multi-agent AI research system.*
 
 Four specialized agents — search, read, write, and critic — collaborate to research any topic and generate structured, well-cited reports end to end.
@@ -76,7 +76,7 @@ Four specialized agents — search, read, write, and critic — collaborate to r
 </td>
 <td width="50%" valign="top">
 
-### 📄 [PDF Q&A Chatbot](https://github.com/sinha9065)
+### 📄 [PDF Q&A Chatbot](https://github.com/sinha9065/pdf-qa-chatbot)
 *RAG-powered document assistant.*
 
 Upload any PDF and get accurate, source-cited answers grounded in the actual document using Retrieval Augmented Generation — no hallucinated answers.
@@ -109,7 +109,7 @@ Upload a photo of a plant leaf and a trained ML model diagnoses the disease inst
 </tr>
 </table>
 
-> ⚠️ *Links point to your GitHub profile — swap each project title's link with the exact repo URL once you confirm the slugs.*
+> ⚠️ *Blockchain-Based-Voting-System repo link coming soon — will update once it's pushed to GitHub.*
 
 ---
 
@@ -142,4 +142,15 @@ Upload a photo of a plant leaf and a trained ML model diagnoses the disease inst
 
 ---
 
-<p align="center">📫 Reach me at <b>sinhashubham540@gmail.com</b> · <a href="https://www.linkedin.com/in/shubhamsinha-85816b339">LinkedIn</a></p>
+## 💬 Let's Connect
+
+I'm open to **internships, collaborations, and conversations around AI/ML and Data Science** — especially anything involving AI agents, RAG pipelines, or computer vision. Always happy to talk shop or team up on something interesting.
+
+<p align="center">
+<a href="mailto:sinhashubham540@gmail.com"><img src="https://img.shields.io/badge/-Say_Hi-8957e5?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/shubhamsinha-85816b339"><img src="https://img.shields.io/badge/-Let's_Connect-8957e5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<p align="center">
+<i>"Turning AI concepts into something that actually works, end to end."</i>
+</p>
