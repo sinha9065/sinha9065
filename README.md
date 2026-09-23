@@ -1,5 +1,5 @@
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Shubham+Sinha+%F0%9F%91%8B;Data+Science+Student;Building+AI+Agents+with+LangChain+%26+RAG" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=B266FF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Shubham+Sinha+%F0%9F%91%8B;Data+Science+Student;Building+AI+Agents+with+LangChain+%26+RAG" alt="Typing SVG" /></a>
 </h1>
 
 <p align="center">
@@ -7,13 +7,13 @@ Data Science Student | Python • SQL • ML • DL | Building AI Agents with La
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/shubhamsinha-85816b339"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:sinhashubham540@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/shubhamsinha-85816b339"><img src="https://img.shields.io/badge/-LinkedIn-8957e5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sinhashubham540@gmail.com"><img src="https://img.shields.io/badge/-Email-8957e5?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/-HackerRank-8957e5?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sinha9065&style=for-the-badge&color=blueviolet" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=sinha9065&style=for-the-badge&color=8957e5" alt="Profile views" />
 </p>
 
 ---
