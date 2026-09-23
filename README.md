@@ -106,8 +106,6 @@ Upload a photo of a plant leaf and a trained ML model diagnoses the disease inst
 </tr>
 </table>
 
-> ⚠️ *All project links now point to their exact repos — nothing left to update.*
-
 ---
 
 ## 🏆 Honors & Achievements
