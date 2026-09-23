@@ -110,7 +110,7 @@ Upload a photo of a plant leaf and a trained ML model diagnoses the disease inst
 
 ## 🏆 Honors & Achievements
 
-- 🥉 **3rd Position — Tech Fest 2025:** Built and presented **Blockchain-Based-Voting-System**, a decentralized and transparent electronic voting framework, competing against 8 teams.
+- 🥉 **3rd Position — Tech Fest 2025:** A CLI-based blockchain voting system in Python using SHA-256 hashing to ensure vote immutability and prevent double voting, competing against 8 teams.
 - 🎖️ **All India Rank 41 — Internship Studio:** Ranked among the top candidates nationwide in Internship Studio's evaluation.
 - 📝 **JEE Mains 2023 — 92 Percentile:** Scored in the top percentile bracket in one of India's most competitive engineering entrance exams.
 
