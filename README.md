@@ -14,16 +14,19 @@ Data Science Student | Python • SQL • ML • DL | Building AI Agents with La
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=sinha9065&style=for-the-badge&color=8957e5" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/sinha9065?style=for-the-badge&color=8957e5&labelColor=black" alt="Followers" />
+<img src="https://img.shields.io/github/followers/sinha9065?style=for-the-badge&color=8957e5&labelColor=black" alt="Followers" />
 </p>
 
 ---
 ## 🧑‍🎓📓 About Me
 
 - 🎓 **Academics:** Pursuing **B.Sc. (Hons.) Data Science**.
-- 💼 **Experience:** Interned as **ML/AI Intern** at **NovaNectar Services Pvt. Ltd.** (May 2025 – Jul 2025) — built ML models for car price, laptop price, and house price prediction using multiple algorithms; also interned at **MedTourEasy** (May 2025 – Jul 2025) and as an **Artificial Intelligence Intern at Internship Studio** (Feb 2024 – Mar 2024).
+- 💼 **Experience:**
+  - **ML/AI Intern** @ **NovaNectar Services Pvt. Ltd.** *(May 2025 – Jul 2025)* — Built ML models for car price, landslide, and house price prediction using multiple algorithms.
+  - **Data Science Intern** @ **MedTourEasy** *(May 2025 – Jul 2025)* — Data preprocessing, EDA, and applied ML/DL.
+  - **Artificial Intelligence Intern** @ **Internship Studio** *(Feb 2024 – Mar 2024)*
 - 🏆 **Hackathons & Competitions:** Secured **3rd Position at Tech Fest 2025**, building a *CLI-based Blockchain Voting System* in Python using **SHA-256 hashing** to ensure vote immutability and prevent double voting, competing against 8 teams.
-- 🛰️ **Focus Areas:** Building **AI agent systems** using **LangChain & RAG pipelines**, and currently deepening skills in **advanced ML & Deep Learning frameworks**.
+- 🛰️ **Focus Areas:** Building **AI agent systems** using **LangChain & RAG pipelines**, and currently deepening skills in **FastAPI & Docker**.
 - 🎯 **Current Objective:** Looking to collaborate on **open-source Data Science / AI projects**, and open to **internships, collaborations & conversations** around AI/ML and Data Science — feel free to ask about **Python, Machine Learning, SQL, Data Analysis, LangChain, or RAG**.
 ---
 
@@ -34,14 +37,20 @@ Data Science Student | Python • SQL • ML • DL | Building AI Agents with La
 ### Languages
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ML & Deep Learning
-![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### Machine Learning
+![Deep Learning](https://img.shields.io/badge/DEEP_LEARNING-FF6F00?style=for-the-badge) ![NLP](https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge) ![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### AI Agents & LLM
-![LangChain](https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![RAG](https://img.shields.io/badge/RAG_PIPELINES-4B0082?style=for-the-badge) ![NLP](https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![RAG](https://img.shields.io/badge/RAG_PIPELINES-4B0082?style=for-the-badge)
+
+### Web & Automation
+![BeautifulSoup](https://img.shields.io/badge/BEAUTIFULSOUP-4B8BBE?style=for-the-badge) ![Web Scraping](https://img.shields.io/badge/WEB_SCRAPING-4B8BBE?style=for-the-badge) ![API Integration](https://img.shields.io/badge/API_INTEGRATION-4B8BBE?style=for-the-badge)
 
 ### Data Analysis & BI
-![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/SEABORN-4C72B0?style=for-the-badge) ![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### Data Skills
+![Data Cleaning](https://img.shields.io/badge/DATA_CLEANING-6A5ACD?style=for-the-badge) ![EDA](https://img.shields.io/badge/EDA-6A5ACD?style=for-the-badge) ![Feature Engineering](https://img.shields.io/badge/FEATURE_ENGINEERING-6A5ACD?style=for-the-badge) ![Data Visualization](https://img.shields.io/badge/DATA_VISUALIZATION-6A5ACD?style=for-the-badge)
 
 ### Tools & Platforms
 ![Streamlit](https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -59,9 +68,9 @@ Data Science Student | Python • SQL • ML • DL | Building AI Agents with La
 ### 🧠 [ResearchMind](https://github.com/sinha9065/multi-agent-research-system)
 *Multi-agent AI research system.*
 
-Four specialized agents — search, read, write, and critic — collaborate to research any topic and generate structured, well-cited reports end to end.
+A 4-agent AI pipeline (Search, Reader, Writer, Critic) built with LangChain and Groq LLM that automates end-to-end topic research and report generation, with real-time web search via Tavily API and a follow-up Q&A feature.
 
-`Python` `LangChain` `Multi-Agent AI` `Streamlit`
+`Python` `LangChain` `Groq LLM` `Tavily API` `Streamlit`
 
 </td>
 <td width="50%" valign="top">
@@ -69,9 +78,9 @@ Four specialized agents — search, read, write, and critic — collaborate to r
 ### 📄 [PDF Q&A Chatbot](https://github.com/sinha9065/pdf-qa-chatbot)
 *RAG-powered document assistant.*
 
-Upload any PDF and get accurate, source-cited answers grounded in the actual document using Retrieval Augmented Generation — no hallucinated answers.
+A RAG pipeline for accurate, document-grounded Q&A with page-level source citations. Supports multi-PDF queries at once and a downloadable chat history — no hallucinated answers.
 
-`Python` `RAG` `LangChain` `NLP`
+`Python` `RAG` `Groq LLM API` `pdfplumber` `Streamlit`
 
 </td>
 </tr>
