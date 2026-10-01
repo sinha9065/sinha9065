@@ -80,8 +80,7 @@ A 4-agent AI pipeline (Search, Reader, Writer, Critic) built with LangChain and 
 
 Paste a YouTube link and get an instant transcript, a Groq LLM-generated summary with timestamped sections, and a RAG-powered Q&A tab — transcript chunks are embedded and stored in ChromaDB for accurate, context-aware answers.
 
-Python RAG Groq LLM ChromaDB Streamlit
-
+'Python' 'RAG' 'Groq' 'LLM' 'ChromaDB' 'Streamlit'
 </td>
 </tr>
 <tr>
