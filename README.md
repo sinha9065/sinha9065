@@ -75,12 +75,12 @@ A 4-agent AI pipeline (Search, Reader, Writer, Critic) built with LangChain and 
 </td>
 <td width="50%" valign="top">
 
-### 📄 [PDF Q&A Chatbot](https://github.com/sinha9065/pdf-qa-chatbot)
-*RAG-powered document assistant.*
+### 🎥 [ Social Content Analyzer](https://github.com/sinha9065/social-content-analyzer)
+*YouTube video summarizer & RAG-based Q&A.*
 
-A RAG pipeline for accurate, document-grounded Q&A with page-level source citations. Supports multi-PDF queries at once and a downloadable chat history — no hallucinated answers.
+Paste a YouTube link and get an instant transcript, a Groq LLM-generated summary with timestamped sections, and a RAG-powered Q&A tab — transcript chunks are embedded and stored in ChromaDB for accurate, context-aware answers.
 
-`Python` `RAG` `Groq LLM API` `pdfplumber` `Streamlit`
+Python RAG Groq LLM ChromaDB Streamlit
 
 </td>
 </tr>
