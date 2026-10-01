@@ -13,7 +13,7 @@ Data Science Student | Python • SQL • ML • DL | Building AI Agents with La
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sinha9065&style=for-the-badge&color=8957e5" alt="Profile views" />
+<img src="https://hits.sh/github.com/sinha9065.svg?style=for-the-badge&color=8957e5&label=Profile%20views" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/sinha9065?style=for-the-badge&color=8957e5&labelColor=black" alt="Followers" />
 </p>
 
